@@ -1,0 +1,2 @@
+-- Active: 1715304369146@@127.0.0.1@3306@information_schema
+CREATE DATABASE PHP;
