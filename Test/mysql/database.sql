@@ -1,2 +1,11 @@
 -- Active: 1715304369146@@127.0.0.1@3306@information_schema
 CREATE DATABASE PHP;
+
+USE PHP;
+
+CREATE TABLE Test (
+    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    column1 VARCHAR(255),
+    column2 INT,
+    column3 DATE
+);
